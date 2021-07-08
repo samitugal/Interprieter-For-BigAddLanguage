@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1625570349 source:c:\users\samit\desktop\pl proje\proje\proje2\main.c
+	<stdbool.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<assert.h>
+	<string.h>
+
+1623749810 source:c:\users\samit\desktop\pl proje\proje\proje2\main1.c
+
